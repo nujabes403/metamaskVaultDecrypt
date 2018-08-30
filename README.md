@@ -1,5 +1,5 @@
 # metamaskVaultDecrypt
-decrypt vault value from Metamask extension storage.
+## decrypt vault value from Metamask extension storage.
 
 decrypt.js를 전체 복사해서 크롬 콘솔에 붙여넣은 뒤
 
